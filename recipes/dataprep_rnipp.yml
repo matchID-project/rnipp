@@ -1,6 +1,6 @@
 recipes:
   dataprep_rnipp:
-    test_chunk_size: 500
+    test_chunk_size: 30
     input: rnipp_fwf
     output: rnipp
     threads: 3
